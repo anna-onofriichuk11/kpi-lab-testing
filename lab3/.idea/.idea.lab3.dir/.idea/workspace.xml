@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a33ba42f-2967-4a63-97c7-43aae4ab2a79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BaseObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/LoginTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/SearchTests.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/BaseTest.cs" />
+        <option value="$PROJECT_DIR$/Utils.cs" />
+        <option value="$PROJECT_DIR$/Pages/StartPage.cs" />
+        <option value="$PROJECT_DIR$/Tests/LoginTests.cs" />
+        <option value="$PROJECT_DIR$/Pages/SearchPage.cs" />
+        <option value="$PROJECT_DIR$/TestHelpers/SearchHelper.cs" />
+        <option value="$PROJECT_DIR$/Tests/SearchTests.cs" />
+        <option value="$PROJECT_DIR$/Pages/LoginPage.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qCn2UNgWW80TlUfSRkSZ1HFaAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="81ac4fb4-229d-40cc-bfde-7c4b484b51b1" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33ba42f-2967-4a63-97c7-43aae4ab2a79" name="Default Changelist" comment="" />
+      <created>1616592244277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616592244277</updated>
+      <workItem from="1616592251547" duration="97000" />
+      <workItem from="1616592642785" duration="388000" />
+      <workItem from="1616593183929" duration="14182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

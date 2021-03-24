@@ -1,0 +1,53 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03465f5b_002D80a3_002D4671_002Da254_002D0b9afb766311/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CorrectLoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.CorrectLoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d36ab47_002D30e2_002D4abd_002D802b_002D950427e3a67a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsNotSuccessfullTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsNotSuccessfullTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cab1d8c_002D8978_002D42f9_002D850f_002Da0178ed654f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsCorrectTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsCorrectTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=564a5920_002D9339_002D4f4d_002Db9b7_002Dd417d012137d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsNotSuccessfullTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsNotSuccessfullTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsCorrectTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=81ac4fb4_002D229d_002D40cc_002Dbfde_002D7c4b484b51b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShowTipsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsCorrectTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91cf442a_002Dca2a_002D4e96_002D87f5_002Ddb70ac2661b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsNotSuccessfullTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsNotSuccessfullTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9738ab87_002D2913_002D408d_002Db537_002Deda37a6311d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InCorrectLoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.InCorrectLoginTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c5213f6_002D3b15_002D4d41_002D90d8_002Dbc84b8ae2cdc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsNotSuccessfullTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsNotSuccessfullTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.InCorrectLoginTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.CorrectLoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d728af33_002Dcda6_002D4904_002Da29d_002Dcb217838eadd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShowTipsTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.CorrectLoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
