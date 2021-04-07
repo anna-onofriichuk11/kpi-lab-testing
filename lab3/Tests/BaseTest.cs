@@ -17,7 +17,7 @@ namespace lab3.Tests
         [OneTimeSetUp]
         public void beforeClass()
         {
-            Driver = new ChromeDriver("C:/Users/Anna/qa-course/lab3/resources");
+            Driver = new ChromeDriver("C:\Users\Anna\OneDrive\Документи\kpi-lab-testing-main\resources");
             //Selenium = new DefaultSelenium()
             //Selenium.Start();
             //Selenium.WindowMaximize();
