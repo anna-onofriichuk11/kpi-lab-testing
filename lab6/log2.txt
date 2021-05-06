@@ -1,0 +1,3 @@
+Certificate tables
+Identical records number: 0
+Different records number: 1
